@@ -15,7 +15,6 @@ const int dataPIN = 8;
 #define STCP clockPIN
 #define SHCP latchPIN
 
-#define SPEED 500
 boolean numbersDef[10][8] =
 {
   {1,1,1,1,1,1,0}, //zero
